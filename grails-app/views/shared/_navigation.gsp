@@ -21,7 +21,8 @@
                     <a href="about.html">About</a>
                 </li>
                 <li>
-                    <a href="blog.html">Blog</a>
+                    <!-- <a href="blog.html">Blog</a> -->
+                    <g:link controller="blog" action="list">Blog</g:link>
                 </li>
                 <li>
                     <a href="contact.html">Contact</a>
